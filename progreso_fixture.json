@@ -1,0 +1,658 @@
+{
+    "partidos_grupos": {
+        "Grupo A": [
+            {
+                "l": "México",
+                "v": "Sudáfrica",
+                "res_l": 2,
+                "res_v": 0
+            },
+            {
+                "l": "Corea del Sur",
+                "v": "Rep. Checa",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "México",
+                "v": "Corea del Sur",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Sudáfrica",
+                "v": "Rep. Checa",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Rep. Checa",
+                "v": "México",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Sudáfrica",
+                "v": "Corea del Sur",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo B": [
+            {
+                "l": "Canadá",
+                "v": "Qatar",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Suiza",
+                "v": "Bosnia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Canadá",
+                "v": "Suiza",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Qatar",
+                "v": "Bosnia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Bosnia",
+                "v": "Canadá",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Qatar",
+                "v": "Suiza",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo C": [
+            {
+                "l": "Brasil",
+                "v": "Marruecos",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Haití",
+                "v": "Escocia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Brasil",
+                "v": "Haití",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Marruecos",
+                "v": "Escocia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Escocia",
+                "v": "Brasil",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Marruecos",
+                "v": "Haití",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo D": [
+            {
+                "l": "Estados Unidos",
+                "v": "Paraguay",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Australia",
+                "v": "Turquía",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Estados Unidos",
+                "v": "Australia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Paraguay",
+                "v": "Turquía",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Turquía",
+                "v": "Estados Unidos",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Paraguay",
+                "v": "Australia",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo E": [
+            {
+                "l": "Alemania",
+                "v": "Curazao",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Costa de Marfil",
+                "v": "Ecuador",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Alemania",
+                "v": "Costa de Marfil",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Curazao",
+                "v": "Ecuador",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Ecuador",
+                "v": "Alemania",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Curazao",
+                "v": "Costa de Marfil",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo F": [
+            {
+                "l": "Países Bajos",
+                "v": "Japón",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Túnez",
+                "v": "Suecia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Países Bajos",
+                "v": "Túnez",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Japón",
+                "v": "Suecia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Suecia",
+                "v": "Países Bajos",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Japón",
+                "v": "Túnez",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo G": [
+            {
+                "l": "Bélgica",
+                "v": "Egipto",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Irán",
+                "v": "Nueva Zelanda",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Bélgica",
+                "v": "Irán",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Egipto",
+                "v": "Nueva Zelanda",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Nueva Zelanda",
+                "v": "Bélgica",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Egipto",
+                "v": "Irán",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo H": [
+            {
+                "l": "España",
+                "v": "Cabo Verde",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Arabia Saudita",
+                "v": "Uruguay",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "España",
+                "v": "Arabia Saudita",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Cabo Verde",
+                "v": "Uruguay",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Uruguay",
+                "v": "España",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Cabo Verde",
+                "v": "Arabia Saudita",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo I": [
+            {
+                "l": "Francia",
+                "v": "Irak",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Senegal",
+                "v": "Noruega",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Francia",
+                "v": "Senegal",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Irak",
+                "v": "Noruega",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Noruega",
+                "v": "Francia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Irak",
+                "v": "Senegal",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo J": [
+            {
+                "l": "Argentina",
+                "v": "Argelia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Austria",
+                "v": "Jordania",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Argentina",
+                "v": "Austria",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Argelia",
+                "v": "Jordania",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Jordania",
+                "v": "Argentina",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Argelia",
+                "v": "Austria",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo K": [
+            {
+                "l": "Congo",
+                "v": "Portugal",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Uzbekistán",
+                "v": "Colombia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Congo",
+                "v": "Uzbekistán",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Portugal",
+                "v": "Colombia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Colombia",
+                "v": "Congo",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Portugal",
+                "v": "Uzbekistán",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "Grupo L": [
+            {
+                "l": "Inglaterra",
+                "v": "Croacia",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Ghana",
+                "v": "Panamá",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Inglaterra",
+                "v": "Ghana",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Croacia",
+                "v": "Panamá",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Panamá",
+                "v": "Inglaterra",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Croacia",
+                "v": "Ghana",
+                "res_l": "",
+                "res_v": ""
+            }
+        ]
+    },
+    "llaves": {
+        "16avos": [
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "octavos": [
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "cuartos": [
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "semis": [
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            },
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            }
+        ],
+        "final": [
+            {
+                "l": "Por Definir",
+                "v": "Por Definir",
+                "res_l": "",
+                "res_v": ""
+            }
+        ]
+    }
+}
