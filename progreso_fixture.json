@@ -5,37 +5,49 @@
                 "l": "México",
                 "v": "Sudáfrica",
                 "res_l": 2,
-                "res_v": 0
+                "res_v": 0,
+                "fecha": "11/06",
+                "hora": "12:00"
             },
             {
                 "l": "Corea del Sur",
                 "v": "Rep. Checa",
-                "res_l": "",
-                "res_v": ""
+                "res_l": 2,
+                "res_v": 1,
+                "fecha": "11/06",
+                "hora": "12:00"
             },
             {
                 "l": "México",
                 "v": "Corea del Sur",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "18/06",
+                "hora": "22:00"
             },
             {
                 "l": "Sudáfrica",
                 "v": "Rep. Checa",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "18/06",
+                "hora": "13:00"
             },
             {
                 "l": "Rep. Checa",
                 "v": "México",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "24/06",
+                "hora": "22:00"
             },
             {
                 "l": "Sudáfrica",
                 "v": "Corea del Sur",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "24/06",
+                "hora": "22:00"
             }
         ],
         "Grupo B": [
@@ -43,37 +55,49 @@
                 "l": "Canadá",
                 "v": "Qatar",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "18/06",
+                "hora": "19:00"
             },
             {
                 "l": "Suiza",
                 "v": "Bosnia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "18/06",
+                "hora": "16:00"
             },
             {
                 "l": "Canadá",
                 "v": "Suiza",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "24/06",
+                "hora": "16:00"
             },
             {
                 "l": "Qatar",
                 "v": "Bosnia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "24/06",
+                "hora": "16:00"
             },
             {
                 "l": "Bosnia",
                 "v": "Canadá",
-                "res_l": "",
-                "res_v": ""
+                "res_l": 1,
+                "res_v": "",
+                "fecha": "12/06",
+                "hora": "16:00"
             },
             {
                 "l": "Qatar",
                 "v": "Suiza",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "13/06",
+                "hora": "16:00"
             }
         ],
         "Grupo C": [
@@ -81,37 +105,49 @@
                 "l": "Brasil",
                 "v": "Marruecos",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "13/06",
+                "hora": "19:00"
             },
             {
                 "l": "Haití",
                 "v": "Escocia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "13/06",
+                "hora": "22:00"
             },
             {
                 "l": "Brasil",
                 "v": "Haití",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "19/06",
+                "hora": "22:00"
             },
             {
                 "l": "Marruecos",
                 "v": "Escocia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "19/06",
+                "hora": "19:00"
             },
             {
                 "l": "Escocia",
                 "v": "Brasil",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "11/06",
+                "hora": "12:00"
             },
             {
                 "l": "Marruecos",
                 "v": "Haití",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "24/06",
+                "hora": "19:00"
             }
         ],
         "Grupo D": [
@@ -119,37 +155,49 @@
                 "l": "Estados Unidos",
                 "v": "Paraguay",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "12/06",
+                "hora": "22:00"
             },
             {
                 "l": "Australia",
                 "v": "Turquía",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "14/06",
+                "hora": "01:00"
             },
             {
                 "l": "Estados Unidos",
                 "v": "Australia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "19/06",
+                "hora": "16:00"
             },
             {
                 "l": "Paraguay",
                 "v": "Turquía",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "20/06",
+                "hora": "01:00"
             },
             {
                 "l": "Turquía",
                 "v": "Estados Unidos",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "25/06",
+                "hora": "23:00"
             },
             {
                 "l": "Paraguay",
                 "v": "Australia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "25/06",
+                "hora": "23:00"
             }
         ],
         "Grupo E": [
@@ -157,37 +205,49 @@
                 "l": "Alemania",
                 "v": "Curazao",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "14/06",
+                "hora": "14:00"
             },
             {
                 "l": "Costa de Marfil",
                 "v": "Ecuador",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "14/06",
+                "hora": "20:00"
             },
             {
                 "l": "Alemania",
                 "v": "Costa de Marfil",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "20/06",
+                "hora": "17:00"
             },
             {
                 "l": "Curazao",
                 "v": "Ecuador",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "20/06",
+                "hora": "21:00"
             },
             {
                 "l": "Ecuador",
                 "v": "Alemania",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "25/06",
+                "hora": "17:00"
             },
             {
                 "l": "Curazao",
                 "v": "Costa de Marfil",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "25/06",
+                "hora": "17:00"
             }
         ],
         "Grupo F": [
@@ -195,37 +255,49 @@
                 "l": "Países Bajos",
                 "v": "Japón",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "14/06",
+                "hora": "17:00"
             },
             {
                 "l": "Túnez",
                 "v": "Suecia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "14/06",
+                "hora": "23:00"
             },
             {
                 "l": "Países Bajos",
                 "v": "Túnez",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "25/06",
+                "hora": "20:00"
             },
             {
                 "l": "Japón",
                 "v": "Suecia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "25/06",
+                "hora": "20:00"
             },
             {
                 "l": "Suecia",
                 "v": "Países Bajos",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "20/06",
+                "hora": "14:00"
             },
             {
                 "l": "Japón",
                 "v": "Túnez",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "21/06",
+                "hora": "01:00"
             }
         ],
         "Grupo G": [
@@ -233,37 +305,49 @@
                 "l": "Bélgica",
                 "v": "Egipto",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "15/06",
+                "hora": "16:00"
             },
             {
                 "l": "Irán",
                 "v": "Nueva Zelanda",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "15/06",
+                "hora": "22:00"
             },
             {
                 "l": "Bélgica",
                 "v": "Irán",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "21/06",
+                "hora": "16:00"
             },
             {
                 "l": "Egipto",
                 "v": "Nueva Zelanda",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "21/06",
+                "hora": "22:00"
             },
             {
                 "l": "Nueva Zelanda",
                 "v": "Bélgica",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "00:00"
             },
             {
                 "l": "Egipto",
                 "v": "Irán",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "00:00"
             }
         ],
         "Grupo H": [
@@ -271,37 +355,49 @@
                 "l": "España",
                 "v": "Cabo Verde",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "15/06",
+                "hora": "13:00"
             },
             {
                 "l": "Arabia Saudita",
                 "v": "Uruguay",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "15/06",
+                "hora": "19:00"
             },
             {
                 "l": "España",
                 "v": "Arabia Saudita",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "21/06",
+                "hora": "13:00"
             },
             {
                 "l": "Cabo Verde",
                 "v": "Uruguay",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "21/06",
+                "hora": "19:00"
             },
             {
                 "l": "Uruguay",
                 "v": "España",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "26/06",
+                "hora": "21:00"
             },
             {
                 "l": "Cabo Verde",
                 "v": "Arabia Saudita",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "26/06",
+                "hora": "21:00"
             }
         ],
         "Grupo I": [
@@ -309,37 +405,49 @@
                 "l": "Francia",
                 "v": "Irak",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "22/06",
+                "hora": "18:00"
             },
             {
                 "l": "Senegal",
                 "v": "Noruega",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "22/06",
+                "hora": "21:00"
             },
             {
                 "l": "Francia",
                 "v": "Senegal",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "16/06",
+                "hora": "16:00"
             },
             {
                 "l": "Irak",
                 "v": "Noruega",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "16/06",
+                "hora": "19:00"
             },
             {
                 "l": "Noruega",
                 "v": "Francia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "26/06",
+                "hora": "16:00"
             },
             {
                 "l": "Irak",
                 "v": "Senegal",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "26/06",
+                "hora": "16:00"
             }
         ],
         "Grupo J": [
@@ -347,37 +455,49 @@
                 "l": "Argentina",
                 "v": "Argelia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "16/06",
+                "hora": "22:00"
             },
             {
                 "l": "Austria",
                 "v": "Jordania",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "17/06",
+                "hora": "01:00"
             },
             {
                 "l": "Argentina",
                 "v": "Austria",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "22/06",
+                "hora": "14:00"
             },
             {
                 "l": "Argelia",
                 "v": "Jordania",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "23/06",
+                "hora": "00:00"
             },
             {
                 "l": "Jordania",
                 "v": "Argentina",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "23:00"
             },
             {
                 "l": "Argelia",
                 "v": "Austria",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "23:00"
             }
         ],
         "Grupo K": [
@@ -385,37 +505,49 @@
                 "l": "Congo",
                 "v": "Portugal",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "17/06",
+                "hora": "14:00"
             },
             {
                 "l": "Uzbekistán",
                 "v": "Colombia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "17/06",
+                "hora": "23:00"
             },
             {
                 "l": "Congo",
                 "v": "Uzbekistán",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "20:30"
             },
             {
                 "l": "Portugal",
                 "v": "Colombia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "20:30"
             },
             {
                 "l": "Colombia",
                 "v": "Congo",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "23/06",
+                "hora": "23:00"
             },
             {
                 "l": "Portugal",
                 "v": "Uzbekistán",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "23/06",
+                "hora": "14:00"
             }
         ],
         "Grupo L": [
@@ -423,37 +555,49 @@
                 "l": "Inglaterra",
                 "v": "Croacia",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "17/06",
+                "hora": "17:00"
             },
             {
                 "l": "Ghana",
                 "v": "Panamá",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "17/06",
+                "hora": "20:00"
             },
             {
                 "l": "Inglaterra",
                 "v": "Ghana",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "23/06",
+                "hora": "17:00"
             },
             {
                 "l": "Croacia",
                 "v": "Panamá",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "23/06",
+                "hora": "20:00"
             },
             {
                 "l": "Panamá",
                 "v": "Inglaterra",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "18:00"
             },
             {
                 "l": "Croacia",
                 "v": "Ghana",
                 "res_l": "",
-                "res_v": ""
+                "res_v": "",
+                "fecha": "27/06",
+                "hora": "18:00"
             }
         ]
     },
